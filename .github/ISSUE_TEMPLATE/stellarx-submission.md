@@ -1,7 +1,7 @@
 ---
 name: StellarX Philippines Submission
 about: Submission issue for StellarX Philippines judges
-title: "Team #SungJinWHAT - CareProof Pay"
+title: "Team #loaferss - CareProof Pay"
 labels: "stellarx, submission"
 assignees: ""
 ---
@@ -22,7 +22,7 @@ Healthcare sponsors and families often pay before outcomes are clear, while prov
 CareProof Pay uses Freighter wallet signing, Stellar testnet assets, Soroban RPC, and a Rust Soroban contract named CareProofPay. Reflector is documented as the oracle path for future PHP/USD and medical cost reference data, while the current testnet prototype keeps outcome scores in Soroban state.
 
 ## GitHub Repository
-https://github.com/SungJinWHAT/healthcare-outcome-payment-model
+https://github.com/loafersscodee/careproof-pay-stellar
 
 ## Network & Deployment
 - Network: testnet
@@ -30,7 +30,7 @@ https://github.com/SungJinWHAT/healthcare-outcome-payment-model
 - Contract IDs / asset issuers (if any): set CONTRACT_ID after testnet deployment
 
 ## Team
-- SungJinWHAT - @SungJinWHAT
+- loaferss - @loafersscodee
 
 ## Novelty Note
 This is original StellarX Philippines work. It uses allowed open-source Stellar tooling, Soroban Rust SDK, the Stellar fullstack cheatsheet, AI-assisted development, and the disclosed Reflector Oracle integration path.
